@@ -1,0 +1,19 @@
+{
+  "name": "killswitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "minimatch": "^3.0.4",
+    "taskkill": "^2.0.0",
+    "tasklist": "^3.1.1"
+  }
+}
