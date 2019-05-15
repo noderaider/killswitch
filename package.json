@@ -1,13 +1,15 @@
 {
-  "name": "killswitch",
+  "name": "@raider/killswitch",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kill annoying Windows tasks dead!",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "killswitch": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cole Chamberlain",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",

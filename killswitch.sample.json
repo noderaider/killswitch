@@ -1,0 +1,19 @@
+[
+    "AdobeUpdateService.exe",
+    "AG[MS]Service.exe",
+    "chrome.exe",
+    "Code.exe",
+    "GoogleUpdate.exe",
+    "Origin.exe",
+    "OriginWebHelperService.exe",
+    "RzSDKServ*",
+    "GameManagerService.exe",
+    "RazerCentralService.exe",
+    "Razer Synapse*",
+    "RzSynapse.exe",
+    "lghub*",
+    "PreSonus*",
+    "Universal Control.exe",
+    "Discord.exe",
+    "AsusUpdateCheck.exe"
+]

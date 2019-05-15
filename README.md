@@ -9,7 +9,13 @@ Looks for a killswitch.json on desktop containing an array of string process nam
 
 ### Install
 
-From command prompt:
+##### From npm (Recommended)
+
+```sh
+npm install -g @raider/killswitch
+```
+
+##### From Source
 
 ```sh
 git clone https://github.com/noderaider/killswitch
@@ -20,7 +26,7 @@ npm link .
 
 ### Usage
 
-Create a `killswitch.json` file on your desktop with something like the following:
+- Create a `killswitch.json` file on your desktop with something like the following:
 
 ```json
 [
@@ -30,9 +36,13 @@ Create a `killswitch.json` file on your desktop with something like the followin
 ]
 ```
 
-All standard wildcard matching is supported.
+**Note: All standard wildcard matching is supported.**
 
-From an administrator command prompt run `killswitch` (directory doesn't matter). Enjoy!
+- From an administrator command prompt (directory doesn't matter):
+
+```sh
+killswitch
+```
 
 ### Other
 
