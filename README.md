@@ -2,6 +2,10 @@
 
 Looks for a killswitch.json on desktop containing an array of string process names (found in details tab of task manager) and kills them all.
 
+![killswitch engage](https://raw.githubusercontent.com/noderaider/killswitch/master/killswitch.gif "killswitch engage")
+
+
+
 ### Requirements
 
 - Must be run as administrator (command prompt or shortcut).
